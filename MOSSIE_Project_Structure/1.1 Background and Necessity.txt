@@ -1,0 +1,54 @@
+1.1 Background and Necessity
+Human exploration of Mars has evolved beyond short-term stays and sample collection, shifting toward long-term habitation and the establishment of self-sustaining ecological infrastructure. However, current approaches to terraforming primarily focus on atmospheric modification or the construction of artificial surface structures, which are often high-cost and high-risk.
+
+The MOSSIE (Martian Oasis Sub-Surface Initiative for Ecosystems) project aims to address the limitations of such traditional approaches. Although subsurface layers of Mars are rich in carbon dioxide (CO₂) and water ice (H₂O), practical technological efforts to utilize these resources remain minimal. Additionally, the need for external power supply, maintenance personnel, and continual human intervention presents a significant barrier to sustaining any long-term biological system.
+
+This study explores the possibility of creating a passive, subsurface ecological system by harnessing in-situ Martian resources—specifically CO₂ and H₂O—and leveraging the continuous thermal output of an RTG (Radioisotope Thermoelectric Generator). This is not merely a technical proposal but a potentially transformative approach to enabling autonomous ecological expansion and long-term human presence on Mars.
+
+1.2 Concept Summary of MOSSIE
+MOSSIE (Martian Oasis Sub-Surface Initiative for Ecosystems) is an autonomous system designed to create a self-sustaining “ecological seed” by utilizing the CO₂ and ice layers beneath the Martian surface. Its core mechanism involves inserting an RTG (Radioisotope Thermoelectric Generator), which gradually melts the ice and releases carbon dioxide gas through continuous heat radiation.
+
+The MOSSIE structure consists of the following five core components:
+
+A reaction pit for RTG insertion
+
+A mini hill structure for gas flow control
+
+A condensation dome for thermal trapping
+
+A subsurface water channeling system
+
+A microbial injection unit for biotic feedback
+
+This system is designed to operate without external power or intervention and can evolve into a micro-ecosystem that promotes initial biological activity and circulation. Additionally, MOSSIE serves as a scalable infrastructure node for future terraforming strategies and ISRU (In-Situ Resource Utilization).
+
+1.3 Objectives and Scope
+The primary objective of this study is to design and evaluate the feasibility of MOSSIE, a passive, RTG-based ecological system for the Martian subsurface. Particular focus is placed on thermal energy transfer mechanisms, water flow formation, and microbial survivability.
+
+The scope of this research includes:
+
+Design of subsurface thermal reaction structures using RTG
+
+Simulation of ice and CO₂ melting interactions
+
+Correlation between internal water flow and microbial habitat potential
+
+Strategies for autonomous control and emergency fail-safes
+
+However, this paper does not cover the actual biological injection protocol or long-term ecological monitoring, which are proposed as future research directions.
+
+1.4 Structure of the Thesis
+This paper is structured as follows:
+
+Chapter 2: Literature Review reviews RTG technologies, Martian subsurface data, extremophile organisms, autonomous systems, and ISRU-related research.
+
+Chapter 3: System Design outlines the key components and architecture of the MOSSIE system.
+
+Chapter 4: Feasibility Analysis evaluates simulations, habitat potential, and resource efficiency.
+
+Chapter 5: Control and Safety Mechanisms addresses passive safety controls, real-time monitoring, and ethical considerations.
+
+Chapter 6: Results and Discussion highlights the significance, limitations, and advantages of MOSSIE compared to existing models.
+
+Chapter 7: Conclusion and Future Work summarizes the contributions of this study and suggests directions for future exploration.
+
