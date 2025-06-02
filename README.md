@@ -39,3 +39,9 @@ Unlike conventional terraforming models that rely on surface-scale atmospheric m
 - **Subsurface Oasis Nodes**: Self-contained microhabitats distributed under Martian terrain.
 
 > These concepts are exploratory in nature and require further feasibility analysis.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+If you use or reference MOSSIE in academic work or public material, please attribute the original author with a link to this repository.
